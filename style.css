@@ -5,7 +5,7 @@
   }
   
   h1 {
-    color: #333;
+    color: #cb4141;
   }
   
   input[type="text"] {
@@ -17,7 +17,7 @@
   button {
     padding: 10px 20px;
     font-size: 16px;
-    background-color: #333;
+    background-color: #6b8672bb;
     color: #fff;
     border: none;
     cursor: pointer;
@@ -29,6 +29,7 @@
   }
   
   .movie {
+    min-height: 200px;
     margin-bottom: 10px;
     padding: 10px;
     background-color: #f5f5f5;
